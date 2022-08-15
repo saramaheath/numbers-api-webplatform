@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "numbers-api-webplatform",
+    "slug": "numbers-api-webplatform",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "numbers-api-webplatform"
+}
